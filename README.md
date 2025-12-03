@@ -1,7 +1,11 @@
 Secure File Vault - C Major Project
+
 Course: CSEG1032 - Programming in C
+
 Institution: University of Petroleum and Energy Studies
+
 Instructor: Dr. Srinivasan Ramachandran
+
 Faculty: Mr. Mohsin Furkh Dar
 
 Project Overview
