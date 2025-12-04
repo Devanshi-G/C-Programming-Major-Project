@@ -27,8 +27,14 @@ Repository Structure
 This project strictly follows the mandatory folder structure defined in the project guidelines:
 
 |-- src/ # Contains all source code (.c files)
+
 |-- include/ # Contains all header files (.h files) 
+
+
 |-- docs/ # Contains ProjectReport.pdf and design documents
+
 |-- assets/ # Optional images or diagrams
+
 |-- README.md # Project documentation (This file)
+
 |__ sample_input.txt # Sample inputs for auto-evaluation testing
